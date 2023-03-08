@@ -12,3 +12,7 @@ Day3: Leetcode203, Leetcode707, Leetcode206;
 Day4: Leetcode24, Leetcode19, Leetcode面试题02.07, Leetcode142;
 
 Day5: Leetcode242, Leetcode349, Leetcode202, Leetcode01;
+
+Day6: Leetcode454, Leetcode383, Leetcode15, Leetcode18;
+
+Day7: Leetcode344, Leetcode541, Leetcode剑指Offer 05, Leetcode151, Leetcode剑指Offer58-II
