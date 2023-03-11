@@ -20,3 +20,5 @@ Day7: Leetcode344, Leetcode541, Leetcode剑指Offer 05, Leetcode151, Leetcode剑
 Day8: 复习双指针;
 
 Day9: Leetcode232, Leetcode225;
+
+Day9: Leetcode20, Leetcode1047, Leetcode150;
