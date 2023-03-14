@@ -24,3 +24,5 @@ Day9: Leetcode232, Leetcode225;
 Day10: Leetcode20, Leetcode1047, Leetcode150;
 
 Day11: Leetcode239, Leetcode347;
+
+Day12: Leetcode144, Leetcode145, Leetcode94;
