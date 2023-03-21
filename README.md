@@ -36,3 +36,5 @@ Day15: Leetcode110, Leetcode257, Leetcode404;
 Day16: Leetcode513, Leetcode112, Leetcode113, Leetcode106, Leetcode105;
 
 Day17: Leetcode654, Leetcode617, Leetcode700, Leetcode98;
+
+Day18: Leetcode530, Leetcode501, Leetcode236;
