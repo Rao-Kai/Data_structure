@@ -40,3 +40,5 @@ Day17: Leetcode654, Leetcode617, Leetcode700, Leetcode98;
 Day18: Leetcode530, Leetcode501, Leetcode236;
 
 Day19: Leetcode235, Leetcode701, Leetcode450;
+
+Day20: Leetcode669, Leetcode108, Leetcode538;
