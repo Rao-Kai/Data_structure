@@ -46,3 +46,5 @@ Day20: Leetcode669, Leetcode108, Leetcode538;
 Day21: Leetcode77;
 
 Day22: Leetcode216, Leetcode17;
+
+Day23: Leetcode39, Leetcode40, Leetcode131;
