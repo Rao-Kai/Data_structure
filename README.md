@@ -60,3 +60,5 @@ Day27: Leetcode455, Leetcode376, Leetcode53;
 Day28: Leetcode122, Leetcode55, Leetcode45;
 
 Day29: Leetcode1005, Leetcode134, Leetcode135;
+
+Day30: Leetcode860, Leetcode406, Leetcode452;
