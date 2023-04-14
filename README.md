@@ -70,3 +70,5 @@ Day32: Leetcode738;
 Day33: Leetcode509, Leetcode70, Leetcode746;
 
 Day34: Leetcode62, Leetcode63;
+
+Day35: Leetcode343, Leetcode96;
