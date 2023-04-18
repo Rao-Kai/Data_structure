@@ -79,6 +79,8 @@ Day37: Leetcode1049, Leetcode494, Leetcode474;
 
 Day38: Leetcode518, Leetcode377;
 
-Day38: Leetcode322, Leetcode279;
+Day39: Leetcode322, Leetcode279;
 
-Day38: Leetcode139;
+Day40: Leetcode139;
+
+Day41: Leetcode198, Leetcode213, Leetcode337;
