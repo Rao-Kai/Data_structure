@@ -90,3 +90,7 @@ Day42: Leetcode121, Leetcode122;
 Day43: Leetcode123, Leetcode188;
 
 Day44: Leetcode309, Leetcode714;
+
+Day45: Leetcode300, Leetcode674, Leetcode718;
+
+Day46: Leetcode1143, Leetcode1035, Leetcode53;
