@@ -95,4 +95,6 @@ Day45: Leetcode300, Leetcode674, Leetcode718;
 
 Day46: Leetcode1143, Leetcode1035, Leetcode53;
 
-Day46: Leetcode392, Leetcode115;
+Day47: Leetcode392, Leetcode115;
+
+Day48: Leetcode583, Leetcode72;
